@@ -9,4 +9,12 @@ Cauto App is an automation software based on AutoX developed by Elias Chang hims
 同时，这也是一个自动化脚本平台，如果有创作者愿意为平台提供自动化脚本，也请联系作者（qq：2974748349）。
 At the same time, this is also an automated script platform, if there are creators willing to provide automated scripts for the platform, please contact the author (qq: 2974748349).
 
-更多联系信息请查看我的
+更多联系信息请查看我的Github主页。
+Check out my Github page for more contact information.
+
+另外，作为权限使用软件，下载软件后可能会被某些手机操作系统提出权限警告，特此说明。
+In addition, if you use the software as a permission, you may be warned by some mobile phone operating systems after downloading the software.
+
+## version：1.0.0.beta
+
+由于是初期的测试版，如果有bug还希望大家海涵。
